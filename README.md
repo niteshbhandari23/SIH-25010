@@ -43,11 +43,11 @@ Agriculture, FoodTech & Rural Development
 ## Proposed Solution
 ```The proposed solution is a **Smart Crop Advisory System**—a holistic, AI-powered platform that functions as a digital agronomist for small and marginal farmers. Key features include:
 
-1. **Personalized Crop Advisory**:  
+1. Personalized Crop Advisory:  
    - AI models trained on soil type, crop history, and local climate data  
    - Recommendations for optimal crop selection and rotation strategies
 
-2. **Soil and Fertilizer Guidance**:  
+2. Soil and Fertilizer Guidance:  
    - Integration with soil testing kits or manual input  
    - Fertilizer dosage and timing based on nutrient profiles
 
@@ -55,23 +55,23 @@ Agriculture, FoodTech & Rural Development
    - Image-based diagnosis using convolutional neural networks (CNNs)  
    - Treatment suggestions aligned with sustainable practices
 
-4. **Weather and Irrigation Alerts**:  
+4. Weather and Irrigation Alerts:  
    - Real-time weather data integration via APIs  
    - Predictive irrigation scheduling to conserve water
 
-5. **Market Intelligence**:  
+5. Market Intelligence:  
    - Live tracking of crop prices from Agmarknet and local mandis  
    - Smart alerts for optimal selling windows
 
-6. **Multilingual Voice Interface**:  
+6. Multilingual Voice Interface:  
    - Support for major Indian languages  
    - Text-to-speech and speech-to-text for accessibility
 
-7. **Offline Functionality**:  
+7. Offline Functionality:  
    - Core features available without internet  
    - Periodic sync when connectivity is restored
 
-8. **Feedback Loop and Analytics**:  
+8. Feedback Loop and Analytics:  
    - Usage tracking for model improvement  
    - Data insights for policy makers and researchers
 
@@ -79,7 +79,7 @@ Agriculture, FoodTech & Rural Development
 
 ## Technical Approach
 ```
-**Technologies to be used**:  
+Technologies to be used:  
 - Programming Languages: Python, Kotlin, JavaScript  
 - Frameworks: TensorFlow (image recognition), React Native (mobile), Flask/Django (backend)  
 - APIs: OpenWeatherMap, Agmarknet, Krishi datasets  
@@ -90,7 +90,7 @@ Agriculture, FoodTech & Rural Development
 - Database: Firebase (real-time sync), PostgreSQL  
 - Voice Integration: Google Text-to-Speech, regional NLP libraries
 
-**Methodology**:  
+Methodology:  
 1. Farmer inputs soil data and crop history  
 2. App fetches weather and market data  
 3. ML model generates crop and fertilizer recommendations  
@@ -103,17 +103,17 @@ Agriculture, FoodTech & Rural Development
 
 ## Feasibility and Viability
 ```
-**Feasibility**:  
+Feasibility:  
 - High mobile penetration in rural India  
 - Availability of open-source tools and government datasets  
 - Proven success of similar ICT interventions in pilot studies
 
-**Challenges**:  
+Challenges:  
 - Low digital literacy among target users  
 - Inconsistent internet access in remote areas  
 - Resistance to technology adoption due to cultural factors
 
-**Strategies to Overcome Challenges**:  
+Strategies to Overcome Challenges:  
 - Voice-first design with intuitive user interface  
 - Offline mode with periodic synchronization  
 - Community onboarding through NGOs and extension officers  
@@ -124,22 +124,22 @@ Agriculture, FoodTech & Rural Development
 
 ## Impact and Benefits
 ```
-**Social Impact**:  
+Social Impact:  
 - Empowers farmers with autonomy and scientific knowledge  
 - Reduces reliance on middlemen and unverified sources  
 - Enhances rural livelihoods and community resilience
 
-**Economic Impact**:  
+Economic Impact:  
 - Increases yield and profitability  
 - Reduces input costs and financial risk  
 - Improves market access and bargaining power
 
-**Environmental Impact**:  
+Environmental Impact:  
 - Promotes sustainable farming practices  
 - Reduces chemical overuse and soil degradation  
 - Encourages water conservation and biodiversity
 
-**Technological Impact**:  
+Technological Impact:  
 - Bridges the digital divide in agriculture  
 - Fosters innovation and entrepreneurship in rural India  
 - Generates valuable data for research and policy formulation
